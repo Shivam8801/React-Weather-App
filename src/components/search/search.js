@@ -33,6 +33,10 @@ const Search = ({ onSearchChange }) => {
 
 
     return (
+        <>
+        <h1>Welcome to React Weather App!</h1>
+
+        <h3>Enter the city name:</h3>
         <AsyncPaginate
             className="search-bar"
             placeholder="Search for city"
@@ -41,6 +45,7 @@ const Search = ({ onSearchChange }) => {
             onChange={handleOnChange}
             loadOptions={loadOptions}
         />
+        </>
     )
 }
 
