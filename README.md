@@ -11,4 +11,4 @@ The frontend of the app is built using ReactJS, a popular JavaScript library for
 Overall, the ReactJS API Weather App is an essential tool for anyone who needs to stay up-to-date on the latest weather conditions. Whether you're planning a trip, heading out for the day, or just curious about the weather in a particular location, this app is the perfect choice for accurate and reliable weather information.
 
 
-Deployed project can be viewed by this link : https://shivam8801.github.io/React-Weather-App/
+Deployed project can be viewed by this link : https://react-weather-app-8801.vercel.app/
